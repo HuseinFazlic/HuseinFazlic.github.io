@@ -50,11 +50,11 @@ div.topnav a {
 	float: left; 
 	display: block;
 	color: white;
-	width: 15%;
+	width: 10%;
 	text-align: center;
 	padding: 13px;
 	
-	font-size:26px;
+	font-size:20px;
 	text-decoration: none;
 }
 /* Setting elements with icons to be smaller */
